@@ -18,11 +18,11 @@ while(t--){
 		}
 		else sum2=10*sum2+a[i];
 	}
-	cout<<sum1+sum2<<endl;
+	 cout<<sum1+sum2<<endl;
 } 
  
  
  
  return 0;
  }
-
+ 
