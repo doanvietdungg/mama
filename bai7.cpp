@@ -17,7 +17,7 @@
 	 
 	 	if(  a[i]+a[j]==k) dem++;
 		 }
-	 }
+	 } 
 	 cout<<dem<<endl;
  }
  
